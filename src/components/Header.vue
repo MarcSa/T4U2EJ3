@@ -2,8 +2,8 @@
 
 <template>
     <header class="text-center p-4">
-        <h1 mb-1>Listado de películas</h1>
-        <p class="lead mb-0">Consulta de los datos de tus películas favoritas</p>
+        <h1 mb-1>Música</h1>
+        <p class="lead mb-0">Consulta de canciones</p>
     </header>
 </template>
 

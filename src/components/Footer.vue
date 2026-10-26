@@ -2,7 +2,7 @@
 
 <template>
     <footer class="text-center p-4">
-        <h2 class="fs-3 mb-0">Mis listas de cine</h2>
+        <h2 class="fs-3 mb-0">La música nos mueve</h2>
     </footer>
 </template>
 
