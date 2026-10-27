@@ -5,7 +5,7 @@ import Footer from '@/components/Footer.vue';
 </script>
 
 <template>
-    <Header class="mb-5" />
+    <Header />
     <SongListContainer class="mb-4" />
     <Footer />
 </template>
